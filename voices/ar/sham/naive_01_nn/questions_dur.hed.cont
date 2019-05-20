@@ -1,0 +1,410 @@
+QS ll_segment_is__ARABICDAMMA_ {*/0:_ARABICDAMMA_/*}
+QS ll_segment_is__ARABICFATHA_ {*/0:_ARABICFATHA_/*}
+QS ll_segment_is__ARABICKASRA_ {*/0:_ARABICKASRA_/*}
+QS ll_segment_is__ARABICLETTERAIN_ {*/0:_ARABICLETTERAIN_/*}
+QS ll_segment_is__ARABICLETTERALEFWITHHAMZAABOVE_ {*/0:_ARABICLETTERALEFWITHHAMZAABOVE_/*}
+QS ll_segment_is__ARABICLETTERBEH_ {*/0:_ARABICLETTERBEH_/*}
+QS ll_segment_is__ARABICLETTERDAD_ {*/0:_ARABICLETTERDAD_/*}
+QS ll_segment_is__ARABICLETTERDAL_ {*/0:_ARABICLETTERDAL_/*}
+QS ll_segment_is__ARABICLETTERFEH_ {*/0:_ARABICLETTERFEH_/*}
+QS ll_segment_is__ARABICLETTERGHAIN_ {*/0:_ARABICLETTERGHAIN_/*}
+QS ll_segment_is__ARABICLETTERHAH_ {*/0:_ARABICLETTERHAH_/*}
+QS ll_segment_is__ARABICLETTERHAMZA_ {*/0:_ARABICLETTERHAMZA_/*}
+QS ll_segment_is__ARABICLETTERHEH_ {*/0:_ARABICLETTERHEH_/*}
+QS ll_segment_is__ARABICLETTERJEEM_ {*/0:_ARABICLETTERJEEM_/*}
+QS ll_segment_is__ARABICLETTERKAF_ {*/0:_ARABICLETTERKAF_/*}
+QS ll_segment_is__ARABICLETTERKHAH_ {*/0:_ARABICLETTERKHAH_/*}
+QS ll_segment_is__ARABICLETTERLAM_ {*/0:_ARABICLETTERLAM_/*}
+QS ll_segment_is__ARABICLETTERMEEM_ {*/0:_ARABICLETTERMEEM_/*}
+QS ll_segment_is__ARABICLETTERNOON_ {*/0:_ARABICLETTERNOON_/*}
+QS ll_segment_is__ARABICLETTERQAF_ {*/0:_ARABICLETTERQAF_/*}
+QS ll_segment_is__ARABICLETTERREH_ {*/0:_ARABICLETTERREH_/*}
+QS ll_segment_is__ARABICLETTERSAD_ {*/0:_ARABICLETTERSAD_/*}
+QS ll_segment_is__ARABICLETTERSEEN_ {*/0:_ARABICLETTERSEEN_/*}
+QS ll_segment_is__ARABICLETTERSHEEN_ {*/0:_ARABICLETTERSHEEN_/*}
+QS ll_segment_is__ARABICLETTERTAH_ {*/0:_ARABICLETTERTAH_/*}
+QS ll_segment_is__ARABICLETTERTEH_ {*/0:_ARABICLETTERTEH_/*}
+QS ll_segment_is__ARABICLETTERTHAL_ {*/0:_ARABICLETTERTHAL_/*}
+QS ll_segment_is__ARABICLETTERTHEH_ {*/0:_ARABICLETTERTHEH_/*}
+QS ll_segment_is__ARABICLETTERWAWWITHHAMZAABOVE_ {*/0:_ARABICLETTERWAWWITHHAMZAABOVE_/*}
+QS ll_segment_is__ARABICLETTERWAW_ {*/0:_ARABICLETTERWAW_/*}
+QS ll_segment_is__ARABICLETTERYEHWITHHAMZAABOVE_ {*/0:_ARABICLETTERYEHWITHHAMZAABOVE_/*}
+QS ll_segment_is__ARABICLETTERYEH_ {*/0:_ARABICLETTERYEH_/*}
+QS ll_segment_is__ARABICLETTERZAH_ {*/0:_ARABICLETTERZAH_/*}
+QS ll_segment_is__ARABICLETTERZAIN_ {*/0:_ARABICLETTERZAIN_/*}
+QS ll_segment_is_sil {*/0:sil/*}
+QS ll_segment_is__NA_ {*/0:_NA_/*}
+
+
+
+QS l_segment_is__ARABICDAMMA_ {*/1:_ARABICDAMMA_/*}
+QS l_segment_is__ARABICFATHA_ {*/1:_ARABICFATHA_/*}
+QS l_segment_is__ARABICKASRA_ {*/1:_ARABICKASRA_/*}
+QS l_segment_is__ARABICLETTERAIN_ {*/1:_ARABICLETTERAIN_/*}
+QS l_segment_is__ARABICLETTERALEFWITHHAMZAABOVE_ {*/1:_ARABICLETTERALEFWITHHAMZAABOVE_/*}
+QS l_segment_is__ARABICLETTERBEH_ {*/1:_ARABICLETTERBEH_/*}
+QS l_segment_is__ARABICLETTERDAD_ {*/1:_ARABICLETTERDAD_/*}
+QS l_segment_is__ARABICLETTERDAL_ {*/1:_ARABICLETTERDAL_/*}
+QS l_segment_is__ARABICLETTERFEH_ {*/1:_ARABICLETTERFEH_/*}
+QS l_segment_is__ARABICLETTERGHAIN_ {*/1:_ARABICLETTERGHAIN_/*}
+QS l_segment_is__ARABICLETTERHAH_ {*/1:_ARABICLETTERHAH_/*}
+QS l_segment_is__ARABICLETTERHAMZA_ {*/1:_ARABICLETTERHAMZA_/*}
+QS l_segment_is__ARABICLETTERHEH_ {*/1:_ARABICLETTERHEH_/*}
+QS l_segment_is__ARABICLETTERJEEM_ {*/1:_ARABICLETTERJEEM_/*}
+QS l_segment_is__ARABICLETTERKAF_ {*/1:_ARABICLETTERKAF_/*}
+QS l_segment_is__ARABICLETTERKHAH_ {*/1:_ARABICLETTERKHAH_/*}
+QS l_segment_is__ARABICLETTERLAM_ {*/1:_ARABICLETTERLAM_/*}
+QS l_segment_is__ARABICLETTERMEEM_ {*/1:_ARABICLETTERMEEM_/*}
+QS l_segment_is__ARABICLETTERNOON_ {*/1:_ARABICLETTERNOON_/*}
+QS l_segment_is__ARABICLETTERQAF_ {*/1:_ARABICLETTERQAF_/*}
+QS l_segment_is__ARABICLETTERREH_ {*/1:_ARABICLETTERREH_/*}
+QS l_segment_is__ARABICLETTERSAD_ {*/1:_ARABICLETTERSAD_/*}
+QS l_segment_is__ARABICLETTERSEEN_ {*/1:_ARABICLETTERSEEN_/*}
+QS l_segment_is__ARABICLETTERSHEEN_ {*/1:_ARABICLETTERSHEEN_/*}
+QS l_segment_is__ARABICLETTERTAH_ {*/1:_ARABICLETTERTAH_/*}
+QS l_segment_is__ARABICLETTERTEH_ {*/1:_ARABICLETTERTEH_/*}
+QS l_segment_is__ARABICLETTERTHAL_ {*/1:_ARABICLETTERTHAL_/*}
+QS l_segment_is__ARABICLETTERTHEH_ {*/1:_ARABICLETTERTHEH_/*}
+QS l_segment_is__ARABICLETTERWAWWITHHAMZAABOVE_ {*/1:_ARABICLETTERWAWWITHHAMZAABOVE_/*}
+QS l_segment_is__ARABICLETTERWAW_ {*/1:_ARABICLETTERWAW_/*}
+QS l_segment_is__ARABICLETTERYEHWITHHAMZAABOVE_ {*/1:_ARABICLETTERYEHWITHHAMZAABOVE_/*}
+QS l_segment_is__ARABICLETTERYEH_ {*/1:_ARABICLETTERYEH_/*}
+QS l_segment_is__ARABICLETTERZAH_ {*/1:_ARABICLETTERZAH_/*}
+QS l_segment_is__ARABICLETTERZAIN_ {*/1:_ARABICLETTERZAIN_/*}
+QS l_segment_is_sil {*/1:sil/*}
+QS l_segment_is__NA_ {*/1:_NA_/*}
+
+
+
+QS c_segment_is__ARABICDAMMA_ {*/2:_ARABICDAMMA_/*}
+QS c_segment_is__ARABICFATHA_ {*/2:_ARABICFATHA_/*}
+QS c_segment_is__ARABICKASRA_ {*/2:_ARABICKASRA_/*}
+QS c_segment_is__ARABICLETTERAIN_ {*/2:_ARABICLETTERAIN_/*}
+QS c_segment_is__ARABICLETTERALEFWITHHAMZAABOVE_ {*/2:_ARABICLETTERALEFWITHHAMZAABOVE_/*}
+QS c_segment_is__ARABICLETTERBEH_ {*/2:_ARABICLETTERBEH_/*}
+QS c_segment_is__ARABICLETTERDAD_ {*/2:_ARABICLETTERDAD_/*}
+QS c_segment_is__ARABICLETTERDAL_ {*/2:_ARABICLETTERDAL_/*}
+QS c_segment_is__ARABICLETTERFEH_ {*/2:_ARABICLETTERFEH_/*}
+QS c_segment_is__ARABICLETTERGHAIN_ {*/2:_ARABICLETTERGHAIN_/*}
+QS c_segment_is__ARABICLETTERHAH_ {*/2:_ARABICLETTERHAH_/*}
+QS c_segment_is__ARABICLETTERHAMZA_ {*/2:_ARABICLETTERHAMZA_/*}
+QS c_segment_is__ARABICLETTERHEH_ {*/2:_ARABICLETTERHEH_/*}
+QS c_segment_is__ARABICLETTERJEEM_ {*/2:_ARABICLETTERJEEM_/*}
+QS c_segment_is__ARABICLETTERKAF_ {*/2:_ARABICLETTERKAF_/*}
+QS c_segment_is__ARABICLETTERKHAH_ {*/2:_ARABICLETTERKHAH_/*}
+QS c_segment_is__ARABICLETTERLAM_ {*/2:_ARABICLETTERLAM_/*}
+QS c_segment_is__ARABICLETTERMEEM_ {*/2:_ARABICLETTERMEEM_/*}
+QS c_segment_is__ARABICLETTERNOON_ {*/2:_ARABICLETTERNOON_/*}
+QS c_segment_is__ARABICLETTERQAF_ {*/2:_ARABICLETTERQAF_/*}
+QS c_segment_is__ARABICLETTERREH_ {*/2:_ARABICLETTERREH_/*}
+QS c_segment_is__ARABICLETTERSAD_ {*/2:_ARABICLETTERSAD_/*}
+QS c_segment_is__ARABICLETTERSEEN_ {*/2:_ARABICLETTERSEEN_/*}
+QS c_segment_is__ARABICLETTERSHEEN_ {*/2:_ARABICLETTERSHEEN_/*}
+QS c_segment_is__ARABICLETTERTAH_ {*/2:_ARABICLETTERTAH_/*}
+QS c_segment_is__ARABICLETTERTEH_ {*/2:_ARABICLETTERTEH_/*}
+QS c_segment_is__ARABICLETTERTHAL_ {*/2:_ARABICLETTERTHAL_/*}
+QS c_segment_is__ARABICLETTERTHEH_ {*/2:_ARABICLETTERTHEH_/*}
+QS c_segment_is__ARABICLETTERWAWWITHHAMZAABOVE_ {*/2:_ARABICLETTERWAWWITHHAMZAABOVE_/*}
+QS c_segment_is__ARABICLETTERWAW_ {*/2:_ARABICLETTERWAW_/*}
+QS c_segment_is__ARABICLETTERYEHWITHHAMZAABOVE_ {*/2:_ARABICLETTERYEHWITHHAMZAABOVE_/*}
+QS c_segment_is__ARABICLETTERYEH_ {*/2:_ARABICLETTERYEH_/*}
+QS c_segment_is__ARABICLETTERZAH_ {*/2:_ARABICLETTERZAH_/*}
+QS c_segment_is__ARABICLETTERZAIN_ {*/2:_ARABICLETTERZAIN_/*}
+QS c_segment_is_sil {*/2:sil/*}
+
+
+
+QS r_segment_is__ARABICDAMMA_ {*/3:_ARABICDAMMA_/*}
+QS r_segment_is__ARABICFATHA_ {*/3:_ARABICFATHA_/*}
+QS r_segment_is__ARABICKASRA_ {*/3:_ARABICKASRA_/*}
+QS r_segment_is__ARABICLETTERAIN_ {*/3:_ARABICLETTERAIN_/*}
+QS r_segment_is__ARABICLETTERALEFWITHHAMZAABOVE_ {*/3:_ARABICLETTERALEFWITHHAMZAABOVE_/*}
+QS r_segment_is__ARABICLETTERBEH_ {*/3:_ARABICLETTERBEH_/*}
+QS r_segment_is__ARABICLETTERDAD_ {*/3:_ARABICLETTERDAD_/*}
+QS r_segment_is__ARABICLETTERDAL_ {*/3:_ARABICLETTERDAL_/*}
+QS r_segment_is__ARABICLETTERFEH_ {*/3:_ARABICLETTERFEH_/*}
+QS r_segment_is__ARABICLETTERGHAIN_ {*/3:_ARABICLETTERGHAIN_/*}
+QS r_segment_is__ARABICLETTERHAH_ {*/3:_ARABICLETTERHAH_/*}
+QS r_segment_is__ARABICLETTERHAMZA_ {*/3:_ARABICLETTERHAMZA_/*}
+QS r_segment_is__ARABICLETTERHEH_ {*/3:_ARABICLETTERHEH_/*}
+QS r_segment_is__ARABICLETTERJEEM_ {*/3:_ARABICLETTERJEEM_/*}
+QS r_segment_is__ARABICLETTERKAF_ {*/3:_ARABICLETTERKAF_/*}
+QS r_segment_is__ARABICLETTERKHAH_ {*/3:_ARABICLETTERKHAH_/*}
+QS r_segment_is__ARABICLETTERLAM_ {*/3:_ARABICLETTERLAM_/*}
+QS r_segment_is__ARABICLETTERMEEM_ {*/3:_ARABICLETTERMEEM_/*}
+QS r_segment_is__ARABICLETTERNOON_ {*/3:_ARABICLETTERNOON_/*}
+QS r_segment_is__ARABICLETTERQAF_ {*/3:_ARABICLETTERQAF_/*}
+QS r_segment_is__ARABICLETTERREH_ {*/3:_ARABICLETTERREH_/*}
+QS r_segment_is__ARABICLETTERSAD_ {*/3:_ARABICLETTERSAD_/*}
+QS r_segment_is__ARABICLETTERSEEN_ {*/3:_ARABICLETTERSEEN_/*}
+QS r_segment_is__ARABICLETTERSHEEN_ {*/3:_ARABICLETTERSHEEN_/*}
+QS r_segment_is__ARABICLETTERTAH_ {*/3:_ARABICLETTERTAH_/*}
+QS r_segment_is__ARABICLETTERTEH_ {*/3:_ARABICLETTERTEH_/*}
+QS r_segment_is__ARABICLETTERTHAL_ {*/3:_ARABICLETTERTHAL_/*}
+QS r_segment_is__ARABICLETTERTHEH_ {*/3:_ARABICLETTERTHEH_/*}
+QS r_segment_is__ARABICLETTERWAWWITHHAMZAABOVE_ {*/3:_ARABICLETTERWAWWITHHAMZAABOVE_/*}
+QS r_segment_is__ARABICLETTERWAW_ {*/3:_ARABICLETTERWAW_/*}
+QS r_segment_is__ARABICLETTERYEHWITHHAMZAABOVE_ {*/3:_ARABICLETTERYEHWITHHAMZAABOVE_/*}
+QS r_segment_is__ARABICLETTERYEH_ {*/3:_ARABICLETTERYEH_/*}
+QS r_segment_is__ARABICLETTERZAH_ {*/3:_ARABICLETTERZAH_/*}
+QS r_segment_is__ARABICLETTERZAIN_ {*/3:_ARABICLETTERZAIN_/*}
+QS r_segment_is_sil {*/3:sil/*}
+QS r_segment_is__NA_ {*/3:_NA_/*}
+
+
+
+QS rr_segment_is__ARABICDAMMA_ {*/4:_ARABICDAMMA_/*}
+QS rr_segment_is__ARABICFATHA_ {*/4:_ARABICFATHA_/*}
+QS rr_segment_is__ARABICKASRA_ {*/4:_ARABICKASRA_/*}
+QS rr_segment_is__ARABICLETTERAIN_ {*/4:_ARABICLETTERAIN_/*}
+QS rr_segment_is__ARABICLETTERALEFWITHHAMZAABOVE_ {*/4:_ARABICLETTERALEFWITHHAMZAABOVE_/*}
+QS rr_segment_is__ARABICLETTERBEH_ {*/4:_ARABICLETTERBEH_/*}
+QS rr_segment_is__ARABICLETTERDAD_ {*/4:_ARABICLETTERDAD_/*}
+QS rr_segment_is__ARABICLETTERDAL_ {*/4:_ARABICLETTERDAL_/*}
+QS rr_segment_is__ARABICLETTERFEH_ {*/4:_ARABICLETTERFEH_/*}
+QS rr_segment_is__ARABICLETTERGHAIN_ {*/4:_ARABICLETTERGHAIN_/*}
+QS rr_segment_is__ARABICLETTERHAH_ {*/4:_ARABICLETTERHAH_/*}
+QS rr_segment_is__ARABICLETTERHAMZA_ {*/4:_ARABICLETTERHAMZA_/*}
+QS rr_segment_is__ARABICLETTERHEH_ {*/4:_ARABICLETTERHEH_/*}
+QS rr_segment_is__ARABICLETTERJEEM_ {*/4:_ARABICLETTERJEEM_/*}
+QS rr_segment_is__ARABICLETTERKAF_ {*/4:_ARABICLETTERKAF_/*}
+QS rr_segment_is__ARABICLETTERKHAH_ {*/4:_ARABICLETTERKHAH_/*}
+QS rr_segment_is__ARABICLETTERLAM_ {*/4:_ARABICLETTERLAM_/*}
+QS rr_segment_is__ARABICLETTERMEEM_ {*/4:_ARABICLETTERMEEM_/*}
+QS rr_segment_is__ARABICLETTERNOON_ {*/4:_ARABICLETTERNOON_/*}
+QS rr_segment_is__ARABICLETTERQAF_ {*/4:_ARABICLETTERQAF_/*}
+QS rr_segment_is__ARABICLETTERREH_ {*/4:_ARABICLETTERREH_/*}
+QS rr_segment_is__ARABICLETTERSAD_ {*/4:_ARABICLETTERSAD_/*}
+QS rr_segment_is__ARABICLETTERSEEN_ {*/4:_ARABICLETTERSEEN_/*}
+QS rr_segment_is__ARABICLETTERSHEEN_ {*/4:_ARABICLETTERSHEEN_/*}
+QS rr_segment_is__ARABICLETTERTAH_ {*/4:_ARABICLETTERTAH_/*}
+QS rr_segment_is__ARABICLETTERTEH_ {*/4:_ARABICLETTERTEH_/*}
+QS rr_segment_is__ARABICLETTERTHAL_ {*/4:_ARABICLETTERTHAL_/*}
+QS rr_segment_is__ARABICLETTERTHEH_ {*/4:_ARABICLETTERTHEH_/*}
+QS rr_segment_is__ARABICLETTERWAWWITHHAMZAABOVE_ {*/4:_ARABICLETTERWAWWITHHAMZAABOVE_/*}
+QS rr_segment_is__ARABICLETTERWAW_ {*/4:_ARABICLETTERWAW_/*}
+QS rr_segment_is__ARABICLETTERYEHWITHHAMZAABOVE_ {*/4:_ARABICLETTERYEHWITHHAMZAABOVE_/*}
+QS rr_segment_is__ARABICLETTERYEH_ {*/4:_ARABICLETTERYEH_/*}
+QS rr_segment_is__ARABICLETTERZAH_ {*/4:_ARABICLETTERZAH_/*}
+QS rr_segment_is__ARABICLETTERZAIN_ {*/4:_ARABICLETTERZAIN_/*}
+QS rr_segment_is_sil {*/4:sil/*}
+QS rr_segment_is__NA_ {*/4:_NA_/*}
+
+
+
+CQS length_left_word {*/5:(\d+)/*}
+
+
+
+CQS length_current_word {*/6:(\d+)/*}
+
+
+
+CQS length_right_word {*/7:(\d+)/*}
+
+
+
+CQS since_beginning_of_word {*/8:(\d+)/*}
+
+
+
+CQS till_end_of_word {*/9:(\d+)/*}
+
+
+
+CQS length_l_phrase_in_words {*/10:(\d+)/*}
+
+
+
+CQS length_c_phrase_in_words {*/11:(\d+)/*}
+
+
+
+CQS length_r_phrase_in_words {*/12:(\d+)/*}
+
+
+
+CQS length_l_phrase_in_segments {*/13:(\d+)/*}
+
+
+
+CQS length_c_phrase_in_segments {*/14:(\d+)/*}
+
+
+
+CQS length_r_phrase_in_segments {*/15:(\d+)/*}
+
+
+
+CQS since_phrase_start_in_segs {*/16:(\d+)/*}
+
+
+
+CQS till_phrase_end_in_segs {*/17:(\d+)/*}
+
+
+
+CQS since_phrase_start_in_words {*/18:(\d+)/*}
+
+
+
+CQS till_phrase_end_in_words {*/19:(\d+)/*}
+
+
+
+CQS since_start_sentence_in_segments {*/20:(\d+)/*}
+
+
+
+CQS since_start_sentence_in_words {*/21:(\d+)/*}
+
+
+
+CQS since_start_sentence_in_phrases {*/22:(\d+)/*}
+
+
+
+CQS till_end_sentence_in_segments {*/23:(\d+)/*}
+
+
+
+CQS till_end_sentence_in_words {*/24:(\d+)/*}
+
+
+
+CQS till_end_sentence_in_phrases {*/25:(\d+)/*}
+
+
+
+CQS length_sentence_in_segments {*/26:(\d+)/*}
+
+
+
+CQS length_sentence_in_words {*/27:(\d+)/*}
+
+
+
+CQS length_sentence_in_phrases {*/28:(\d+)/*}
+
+
+
+CQS L_vsm_d1 {*/29:([\d\.]+)/*}
+
+
+
+CQS C_vsm_d1 {*/30:([\d\.]+)/*}
+
+
+
+CQS R_vsm_d1 {*/31:([\d\.]+)/*}
+
+
+
+CQS L_vsm_d2 {*/32:([\d\.]+)/*}
+
+
+
+CQS C_vsm_d2 {*/33:([\d\.]+)/*}
+
+
+
+CQS R_vsm_d2 {*/34:([\d\.]+)/*}
+
+
+
+CQS L_vsm_d3 {*/35:([\d\.]+)/*}
+
+
+
+CQS C_vsm_d3 {*/36:([\d\.]+)/*}
+
+
+
+CQS R_vsm_d3 {*/37:([\d\.]+)/*}
+
+
+
+CQS L_vsm_d4 {*/38:([\d\.]+)/*}
+
+
+
+CQS C_vsm_d4 {*/39:([\d\.]+)/*}
+
+
+
+CQS R_vsm_d4 {*/40:([\d\.]+)/*}
+
+
+
+CQS L_vsm_d5 {*/41:([\d\.]+)/*}
+
+
+
+CQS C_vsm_d5 {*/42:([\d\.]+)/*}
+
+
+
+CQS R_vsm_d5 {*/43:([\d\.]+)/*}
+
+
+
+CQS L_vsm_d6 {*/44:([\d\.]+)/*}
+
+
+
+CQS C_vsm_d6 {*/45:([\d\.]+)/*}
+
+
+
+CQS R_vsm_d6 {*/46:([\d\.]+)/*}
+
+
+
+CQS L_vsm_d7 {*/47:([\d\.]+)/*}
+
+
+
+CQS C_vsm_d7 {*/48:([\d\.]+)/*}
+
+
+
+CQS R_vsm_d7 {*/49:([\d\.]+)/*}
+
+
+
+CQS L_vsm_d8 {*/50:([\d\.]+)/*}
+
+
+
+CQS C_vsm_d8 {*/51:([\d\.]+)/*}
+
+
+
+CQS R_vsm_d8 {*/52:([\d\.]+)/*}
+
+
+
+CQS L_vsm_d9 {*/53:([\d\.]+)/*}
+
+
+
+CQS C_vsm_d9 {*/54:([\d\.]+)/*}
+
+
+
+CQS R_vsm_d9 {*/55:([\d\.]+)/*}
+
+
+
+CQS L_vsm_d10 {*/56:([\d\.]+)/*}
+
+
+
+CQS C_vsm_d10 {*/57:([\d\.]+)/*}
+
+
+
+CQS R_vsm_d10 {*/58:([\d\.]+)/*}
+
+
+
